@@ -1,0 +1,6 @@
+10-03-2022 12:56:39 INFO [TESR]: Checking the first Tooltip Overlay
+10-03-2022 12:56:39 INFO [TESR]: Debug Message!
+10-03-2022 12:56:39 INFO [TESR]: Info Message!
+10-03-2022 12:56:39 WARN [TESR]: Warn Message!
+10-03-2022 12:56:39 ERROR[TESR]: Error Message!
+10-03-2022 12:56:39 FATAL[TESR]: Fatal Message!
